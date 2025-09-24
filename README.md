@@ -3,6 +3,9 @@
 **Promptly™** is a lightweight, cross-platform Bash script for creating **dynamic terminal banners**.  
 It displays custom ASCII banners, system information, and optional rainbow colors with `lolcat`. Compatible with **Linux** and **macOS**.
 
+<img width="929" height="343" alt="Screenshot 2025-09-24 at 09 56 22" src="https://github.com/user-attachments/assets/e1d7a754-9e15-416e-9e2b-80cfc0cf84f3" />
+
+
 ## License
 
 MIT License – free to use, modify, and share.
